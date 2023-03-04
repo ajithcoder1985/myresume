@@ -5,7 +5,7 @@
     <title>My CV</title>
 </head>
 
-<body>
+<body background-colour : blue>
     <h1>Profile</h1>
     <p>Ajith T Antony, 38 years old </p>
     <p>Family Members </p>
